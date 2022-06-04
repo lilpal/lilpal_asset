@@ -1,0 +1,15 @@
+{
+  "name": "LilPals#421",
+  "description": "6,000 adorable lilpals costumed are ready to celebrate the day!Happy to all lilpals <3.",
+  "image": "https://raw.githubusercontent.com/lilpal/lilpal_asset/master/lilpals.gif",
+  "attributes": [
+    {
+      "trait_type": "STATUS",
+      "value": "4481"
+    },
+    {
+      "trait_type": "FOOD",
+      "value": "apple"
+    }
+  ]
+}
