@@ -1,15 +1,31 @@
 {
   "name": "LilPals#310",
-  "description": "6,000 adorable lilpals costumed are ready to celebrate the day!Happy to all lilpals <3.",
-  "image": "https://raw.githubusercontent.com/lilpal/lilpal_asset/master/lilpals.gif",
+  "description": "6,000 adorable lilpals costumed are ready to celebrate the day!Happy international children's Day to all lilpals <3",
+  "image": "https://raw.githubusercontent.com/lilpal/lilpal_asset/main/images/310.png",
   "attributes": [
     {
-      "trait_type": "STATUS",
-      "value": "3787"
+      "trait_type": "background",
+      "value": "Gradient Purple"
     },
     {
-      "trait_type": "FOOD",
-      "value": "apple"
+      "trait_type": "body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Line"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "cloths",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "head",
+      "value": "None"
     }
   ]
 }
